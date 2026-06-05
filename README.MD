@@ -10,4 +10,4 @@
 
 ## [from research gate](https://www.researchgate.net/publication/362809521_Detection_of_pneumonia_using_convolutional_neural_networks_and_deep_learning)
 
-14:17
+14:28
