@@ -10,4 +10,8 @@
 
 ## [from research gate](https://www.researchgate.net/publication/362809521_Detection_of_pneumonia_using_convolutional_neural_networks_and_deep_learning)
 
-14:28
+## How to avoid overfitting in machine learning
+
+## What is confusion matrix in machine learning
+
+14:39
