@@ -10,7 +10,7 @@
 
 ## [from research gate](https://www.researchgate.net/publication/362809521_Detection_of_pneumonia_using_convolutional_neural_networks_and_deep_learning)
 
-## How to avoid overfitting in machine learning
+## How to avoid overfitting in machine learning (drop out regularization)
 
 ## What is confusion matrix in machine learning
 
